@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/author.png</file>
+        <file>image/backbutton.png</file>
+        <file>image/bgd.jpg</file>
+        <file>image/button.png</file>
+        <file>image/button_push.png</file>
+        <file>image/button1.png</file>
+        <file>image/button2.png</file>
+        <file>image/button3.png</file>
+        <file>image/buybook.png</file>
+        <file>image/changetax.png</file>
+        <file>image/deletebutton.png</file>
+        <file>image/icon.png</file>
+        <file>image/insertbutton.png</file>
+        <file>image/logo.png</file>
+        <file>image/paymoney.png</file>
+        <file>image/querybutton.png</file>
+        <file>image/reference.png</file>
+        <file>image/special_thanks.png</file>
+        <file>image/updatebutton.png</file>
+        <file>image/all.png</file>
+        <file>image/data.png</file>
+        <file>image/num.png</file>
+        <file>image/price1.png</file>
+        <file>image/price2.png</file>
+        <file>image/pricecnt.png</file>
+    </qresource>
+</RCC>
